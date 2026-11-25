@@ -1,0 +1,14 @@
+version: 2
+models:
+  - name: stg_products
+    columns:
+      - name: product_id
+        tests: [not_null, unique]
+      - name: price
+        tests: [not_null]
+  - name: dim_products
+    columns:
+      - name: product_sk
+        tests: [not_null, unique]
+      - name: product_id
+        tests: [not_null]

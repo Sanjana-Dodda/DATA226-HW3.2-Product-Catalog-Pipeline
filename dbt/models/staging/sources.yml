@@ -1,0 +1,7 @@
+version: 2
+sources:
+  - name: raw
+    database: PRODUCT_CATALOG
+    schema: STAGING
+    tables:
+      - name: raw_products

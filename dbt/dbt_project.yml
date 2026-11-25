@@ -1,0 +1,13 @@
+name: product_catalog
+version: 1.0.0
+config-version: 2
+profile: product_catalog
+model-paths: ["models"]
+snapshot-paths: ["snapshots"]
+test-paths: ["tests"]
+models:
+  product_catalog:
+    staging:
+      +materialized: view
+    core:
+      +materialized: table

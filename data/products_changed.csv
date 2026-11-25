@@ -1,0 +1,6 @@
+product_id,name,category,price,description,rating,created_at,updated_at
+P001,Drill 18V,Tools,94.99,Cordless drill,4.4,2026-11-20 09:00:00,2026-11-25 10:00:00
+P002,LED Bulb 4-Pack,Lighting,12.49,Energy efficient bulbs,4.6,2026-11-20 09:05:00,2026-11-20 09:05:00
+P003,Kitchen Faucet,Plumbing,129.00,Single handle faucet,4.2,2026-11-20 09:10:00,2026-11-20 09:10:00
+P004,Paint Roller Kit,Paint,18.75,9 inch roller kit,4.5,2026-11-20 09:15:00,2026-11-20 09:15:00
+P005,Storage Tote,Storage,16.99,27 gallon tote,4.3,2026-11-20 09:20:00,2026-11-20 09:20:00
